@@ -1,0 +1,8 @@
+# Site settings
+title: kaboom.dk
+brand: Rune Glerup
+author: Rune Glerup
+description: Rune Glerup's digital home.
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.glerup-navbar {
+  border-radius: 0;
+}
+
+.navbar-inverse .glerup-navbar-brand {
+  font-weight: 500;
+  color: #fff;
+}
