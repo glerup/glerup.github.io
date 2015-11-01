@@ -5,10 +5,9 @@ layout: page
 
 Welcome to the digital home of Rune Glerup.
 
-I work as a computer programmer for the software company [Deltek](http://www.deltek.com).
-My job is making the Maconomy product even better.
+I work as a computer programmer for [Nordea Markets](http://www.nordeamarkets.com).
 
-I have a MSc degree in Software Development and Technology from the [IT University of
+I hold a MSc degree in Software Development and Technology from the [IT University of
 Copenhagen](http://www.itu.dk) and a BA degree in Human-Centered Informatics from [Aalborg
 University](http://www.aau.dk).
 
